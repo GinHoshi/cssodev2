@@ -1,0 +1,96 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.imgcenter {
+        margin: auto;
+        width: 24%;
+        padding: 10px;
+
+}
+.txtcenter {
+    text-align:center;
+}
+.txtsize15 {
+    font-size:15px;
+}
+.anchor-center1 {
+    padding-left: 40%;
+    padding-right: 40%;
+
+}
+.anchor-center2 {
+    padding-left: 41%;
+    padding-right: 41%;
+
+}
+.anchor-center3 {
+    padding-left: 38%;
+    padding-right: 38%;
+
+}
+.txtsize20 {
+    font-size:20px;
+}
+
+.container {
+    height: 105px;
+    background-color:darkgray;
+}
+.center{
+    margin-left:660px;
+}
+.float {
+    float:left;
+}
+.floatr {
+    float:right;
+}
+img{
+    float:none;
+}
+form.search {
+    display: flex;
+}
+form.search input {
+    font-size: 16px;
+    font-weight: 500;
+    box-sizing: border-box;
+    padding: 0 125px;
+    outline: 0;
+    margin-left:540px;
+    margin-bottom:6px;
+}
+.box1{
+    float:left;
+    width:530px;
+    height:120px;
+    background-color:  rgb(0, 238, 255);
+    margin-left:15px;
+    flex: auto;
+}
+.box2{
+    float:left;
+    width:415px;
+    height:120px;
+    background-color: rgb(53, 191, 201);
+    margin-left:15px;
+    flex: auto;
+}
+.box3{
+    float:left;
+    width:530px;
+    height:120px;
+    background-color:  rgb(36, 131, 138);
+    margin-left:15px;
+    flex: auto;
+}
+
+
+.paddingbottom{
+    padding-bottom:15px;
+}
+
+.copyright {
+    padding-left: 45%;
+  }
